@@ -24,3 +24,5 @@ Here is a quick example showing the essence of Adaptive and the corresponding vi
     <text hint-style="subtitle">Jennifer Parker</text>
     <text hint-style="captionSubtle">Photos from our trip</text>
     <text hint-style="captionSubtle">Check out these awesome photos I took while in New Zealand!</text>
+
+![Quick sample results]({{site.baseurl}}/resources/images/notifications/adaptive/quick-sample.png "Quick Sample")
