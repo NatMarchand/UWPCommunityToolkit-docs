@@ -21,6 +21,24 @@ Adaptive is used within Tile and Toast notifications. You can see how Adaptive i
 
 Here is a quick example showing the essence of Adaptive and the corresponding visual results...
 
+    new AdaptiveText()
+    {
+        Text = "Jennifer Parker",
+        HintStyle = AdaptiveTextStyle.Subtitle
+    },
+    
+    new AdaptiveText()
+    {
+        Text = "Photos from our trip",
+        HintStyle = AdaptiveTextStyle.CaptionSubtle
+    },
+    
+    new AdaptiveText()
+    {
+        Text = "Check out these awesome photos I took while in New Zealand!",
+        HintStyle = AdaptiveTextStyle.CaptionSubtle
+    }
+
     <text hint-style="subtitle">Jennifer Parker</text>
     <text hint-style="captionSubtle">Photos from our trip</text>
     <text hint-style="captionSubtle">Check out these awesome photos I took while in New Zealand!</text>
